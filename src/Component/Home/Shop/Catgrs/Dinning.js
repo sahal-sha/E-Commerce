@@ -11,7 +11,7 @@ const Dinning = ({ nav }) =>{
     const DinninghallItems = items.filter((item)=>item.type === 'Dinning' || item.type === 'Light');
     return(
         <div>
-            <h3 style={{ color: "silver"}}>DINNING</h3>
+            <h3 style={{ color: "silver"}}>DINING</h3>
             <div className="container">
                 <div className="row">
                     {

@@ -69,7 +69,7 @@ const Home = () =>{
             <Link to={'/Dinning'}>
               <Image src={require('./HomeCatgry/dinning.jpeg')} style={{ width: "100%" }} />
               </Link>
-            <p className='fontstyle'>Dinning</p>
+            <p className='fontstyle'>Dining</p>
           </div>
           <div className='col-6'>
             <Link to={'/Storage'}>
