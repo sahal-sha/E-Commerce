@@ -1,0 +1,39 @@
+.Carouse{
+    margin-top: -35px;
+}
+.Modern{
+ color:rgb(9, 10, 10);
+}
+.Moderndis{
+    color:rgb(232, 230, 230);
+}
+.Minimal{
+    color:rgb(17, 16, 15);
+   
+}
+.Minimaldis{
+    color:rgb(3, 3, 3);
+}
+.wooden{
+    color:rgb(0, 0, 0);
+    
+}
+.woodenstreet{
+    color:black;
+    font: bold;
+}
+.container-fluid{
+    margin-top: 10px;
+}
+.fontstyle{
+    font-style: italic;
+    font-size: large;
+    color: sienna;
+}
+.Copyright{
+    background-color: rgb(106, 56, 33);
+}
+
+li{
+    list-style-type: none;
+}
